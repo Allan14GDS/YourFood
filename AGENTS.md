@@ -1,0 +1,1 @@
+- Demo data lives in a persisted client store (src/lib/store.ts, localStorage) with cross-tab sync; no backend yet — prototype only.
